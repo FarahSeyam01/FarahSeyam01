@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Frah Seyam</h1>
+<h1 align="center">Hi 👋, I'm Farah Seyam</h1>
 <h3 align="center">A passionate Mobile developer/Software tester from Egypt</h3>
  <img src="https://i.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.webp" align=right alt="farahseyam" />
 
